@@ -1,2 +1,5 @@
 euroc/*.bag
 build
+devel
+logs
+.*
